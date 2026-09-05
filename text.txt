@@ -1,0 +1,16 @@
+Popis slika i videa: 
+slike_i_video\ChatGPTPasijans.png generirano https://chatgpt.com/
+slike_i_video\D&D.jpg je uzeto sa https://pixabay.com/photos/dice-games-game-random-probability-5432439/
+slike_i_video\dama.jpg je uzeto sa https://pixabay.com/photos/activity-games-drink-fun-hobbies-3767537/
+slike_i_video\Gemini_Generated_Image_black_angel.jpg je generirano https://gemini.google.com/app
+slike_i_video\Gemini_generated_image_mage-knight.jpg je generirano https://gemini.google.com/app
+slike_i_video\glavnaSlika.jpg je uzeto sa https://pixabay.com/photos/chess-chessboard-board-game-1215079/
+slike_i_video\kamen_skare_i_papir.jpg je kreirano autorom rada
+slike_i_video\logo_stvoreno_sa_ChatGPT.svg je generirano https://chatgpt.com/
+slike_i_video\noviPehar.png je stvoreno autorom rada
+slike_i_video\oglasenjevid.mp4 je stvoreno autorom rada u Movavi Video Editor i napravljena komprezija u Movavi Editor Converter
+slike_i_video\pehar1.jpg je stvoreno autorom rada
+slike_i_video\pehar2.jpg je stvoreno autorom rada
+slike_i_video\poker.jpg je uzeto sa https://pixabay.com/photos/poker-royal-flush-card-game-win-2198117/
+slike_i_video\radnik.jpg je stvoreno autorom rada
+slike_i_video\sah.jpg je uzeto sa https://pixabay.com/photos/chess-checkmate-chess-board-5516446/
